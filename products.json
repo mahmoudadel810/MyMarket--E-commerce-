@@ -1,0 +1,322 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://egyptlaptop.com/images/detailed/54/MacBook_Air_M1_gold.webp",
+      "name": "MacBook Pro 16-inch",
+      "price": 2399,
+      "category": "Electronics",
+      "oldPrice": 2599,
+      "sale": true,
+      "stars": 5
+    },
+    {
+      "id": 2,
+      "img": "https://images.samsung.com/is/image/samsung/p6pim/eg/2401/gallery/eg-galaxy-s24-s928-sm-s928bzkcmea-539295873?$684_547_PNG$",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1199,
+      "category": "Mobiles",
+      "oldPrice": 1299,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinqqh5-SCd2qbqqDP5P5ZQHbEkEKIWusVAg&s",
+      "name": "LG OLED 65\" 4K Smart TV",
+      "price": 1899,
+      "category": "Electronics",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 5
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS83nsIf6ae3IiUkWxzWIL6YqBAmdMUTL_trQ&s",
+      "name": "Samsung Smart Refrigerator",
+      "price": 2499,
+      "category": "Appliances",
+      "oldPrice": 2799,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 5,
+      "img": "https://btech.com/media/catalog/product/cache/8f8b0d990cd61bd6509073156fbf1ded/7/1/71axggnce9l._ac_sx679_.jpg",
+      "name": "Apple Watch Series 9",
+      "price": 399,
+      "category": "Electronics",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 5
+    },
+    {
+      "id": 6,
+      "img": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c",
+      "name": "Google Pixel 8 Pro",
+      "price": 999,
+      "category": "Mobiles",
+      "oldPrice": 1099,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 7,
+      "img": "https://images.unsplash.com/photo-1585155770447-2f66e2a397b5",
+      "name": "Bose QuietComfort Earbuds",
+      "price": 249,
+      "category": "Electronics",
+      "oldPrice": 279,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 8,
+      "img": "https://images.unsplash.com/photo-1574279606130-09958dc756f7",
+      "name": "Dyson V15 Vacuum Cleaner",
+      "price": 699,
+      "category": "Appliances",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 5
+    },
+    {
+      "id": 9,
+      "img": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45",
+      "name": "iPad Pro 12.9-inch",
+      "price": 1099,
+      "category": "Electronics",
+      "oldPrice": 1199,
+      "sale": true,
+      "stars": 5
+    },
+    {
+      "id": 10,
+      "img": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e",
+      "name": "KitchenAid Stand Mixer",
+      "price": 399,
+      "category": "Appliances",
+      "oldPrice": 449,
+      "sale": true,
+      "stars": 5
+    },
+    {
+      "id": 11,
+      "img": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c",
+      "name": "Dell XPS 15 Laptop",
+      "price": 1799,
+      "category": "Electronics",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 4
+    },
+    {
+      "id": 12,
+      "img": "https://images.unsplash.com/photo-1624913503273-5f9c4e980dba",
+      "name": "iPhone 15 Pro Max",
+      "price": 1199,
+      "category": "Mobiles",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 5
+    },
+    {
+      "id": 13,
+      "img": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0",
+      "name": "Ninja Foodi Pressure Cooker",
+      "price": 179,
+      "category": "Appliances",
+      "oldPrice": 229,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 14,
+      "img": "https://images.unsplash.com/photo-1606229365485-93a3b8ee0385",
+      "name": "Sony WH-1000XM5 Headphones",
+      "price": 349,
+      "category": "Electronics",
+      "oldPrice": 399,
+      "sale": true,
+      "stars": 5
+    },
+    {
+      "id": 15,
+      "img": "https://m.media-amazon.com/images/I/31r2WemKp0L._AC_.jpg",
+      "name": "Bosch Dishwasher",
+      "price": 849,
+      "category": "Appliances",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 4
+    },
+    {
+      "id": 16,
+      "img": "https://m.media-amazon.com/images/I/71y20orCmOL._AC_SL1500_.jpg",
+      "name": "Samsung Galaxy Z Fold 5",
+      "price": 1799,
+      "category": "Mobiles",
+      "oldPrice": 1899,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 17,
+      "img": "https://m.media-amazon.com/images/I/71kJ9GFMxsL._AC_SL1500_.jpg",
+      "name": "Philips Air Fryer XL",
+      "price": 149,
+      "category": "Appliances",
+      "oldPrice": 199,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 18,
+      "img": "https://images.unsplash.com/photo-1550029402-226115b7c579",
+      "name": "LG Front Load Washer",
+      "price": 899,
+      "category": "Appliances",
+      "oldPrice": 999,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 19,
+      "img": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272",
+      "name": "Xiaomi Mi 14 Ultra",
+      "price": 899,
+      "category": "Mobiles",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 4
+    },
+    {
+      "id": 20,
+      "img": "https://images.unsplash.com/photo-1593305841991-05c297ba4575",
+      "name": "Sony PlayStation 5",
+      "price": 499,
+      "category": "Electronics",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 5
+    },
+    {
+      "id": 21,
+      "img": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Render-Platinum-Surface-Laptop-5-RE50yTd?fmt=png-alpha&scl=1",
+      "name": "Microsoft Surface Laptop 5",
+      "price": 1299,
+      "category": "Electronics",
+      "oldPrice": 1399,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 22,
+      "img": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf",
+      "name": "OnePlus 12",
+      "price": 799,
+      "category": "Mobiles",
+      "oldPrice": 899,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 23,
+      "img": "https://images.unsplash.com/photo-1574269252556-89926e7c5805",
+      "name": "Breville Espresso Machine",
+      "price": 699,
+      "category": "Appliances",
+      "oldPrice": 799,
+      "sale": true,
+      "stars": 5
+    },
+    {
+      "id": 24,
+      "img": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "name": "Canon EOS R6 Camera",
+      "price": 2499,
+      "category": "Electronics",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 5
+    },
+    {
+      "id": 25,
+      "img": "https://images.unsplash.com/photo-1517420879524-86d64ac2f339",
+      "name": "Cuisinart Food Processor",
+      "price": 199,
+      "category": "Appliances",
+      "oldPrice": 249,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 26,
+      "img": "https://images.unsplash.com/photo-1629429407759-01cd3d7cfb38",
+      "name": "Nothing Phone 2",
+      "price": 699,
+      "category": "Mobiles",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 4
+    },
+    {
+      "id": 27,
+      "img": "https://cairosales.com/101643-large_default/samsung-55-qled-4k-smart-tv-55q60d.jpg",
+      "name": "Samsung QLED 55\" TV",
+      "price": 999,
+      "category": "Electronics",
+      "oldPrice": 1199,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 28,
+      "img": "https://m.media-amazon.com/images/I/51EFa3cUVfL._AC_.jpg",
+      "name": "Vitamix Blender Pro",
+      "price": 549,
+      "category": "Appliances",
+      "oldPrice": 599,
+      "sale": true,
+      "stars": 5
+    },
+    {
+      "id": 29,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkvkaAbzgeqfTOzJE3vWEpXD4ruCPkrbieg&s",
+      "name": "Motorola Edge 40 Pro",
+      "price": 699,
+      "category": "Mobiles",
+      "oldPrice": 799,
+      "sale": true,
+      "stars": 4
+    },{
+      "id": 29,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5cuHk3o5BNopLfDQfsC_Dtz-asqp4LgDTQ&usqp=CAU",
+      "name": "Motorola Edge 23",
+      "price": 324,
+      "category": "Mobiles",
+      "oldPrice": 799,
+      "sale": true,
+      "stars": 4
+    },{
+      "id": 29,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5cuHk3o5BNopLfDQfsC_Dtz-asqp4LgDTQ&usqp=CAU",
+      "name": "Motorola Edge 40 Pro",
+      "price": 1123,
+      "category": "Mobiles",
+      "oldPrice": 3000,
+      "sale": true,
+      "stars": 4
+    },
+    {
+      "id": 30,
+      "img": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/p/i/piblvyv_46iukv0tdgsfyx7u.jpeg?format=jpeg&width=368",
+      "name": "Nintendo Switch OLED",
+      "price": 349,
+      "category": "Electronics",
+      "oldPrice": null,
+      "sale": false,
+      "stars": 5
+    }
+  ]
+}
