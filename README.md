@@ -1,5 +1,5 @@
 
-# EchoMart E-Commerce Platform
+#  E-Commerce Platform
 
 ## Project Overview
 
