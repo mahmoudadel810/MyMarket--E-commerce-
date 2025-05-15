@@ -5,7 +5,8 @@
 
 DolaShop is a modern e-commerce web application built with vanilla JavaScript (ES6+), HTML5, and CSS3. The project demonstrates core e-commerce functionality with clean code organization and responsive design.
 
-![EchoMart Screenshot]()
+![Screenshot 2025-05-15 at 3 59 32 PM](https://github.com/user-attachments/assets/3094be1a-1f81-42d5-a696-82d90b9f9b95)
+
 
 ## Key Features
 
